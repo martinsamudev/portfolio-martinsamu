@@ -5,11 +5,12 @@ Soy un desarrollador con un enfoque multidisciplinar, capaz de adaptarme a difer
 ## 🛠️ Stack Tecnológico Versátil
 - **Back-End:** Java (Core), PHP, Python, Node.js.
 - **Front-End:** JavaScript (ES6+), React.js, Tailwind CSS, HTML5.
-- **Bases de Datos:** Amplia experiencia en SQL (MySQL, PostgreSQL, Oracle).
+- **Bases de Datos:** Amplia experiencia en SQL (MySQL, PostgreSQL, Oracle, Supabase).
 - **Sistemas & Herramientas:** Administración de Linux, Seguridad informática, Git/GitHub, Docker.
 
 ## 📁 Proyectos Seleccionados
 
+- **[CoinTrack](https://github.com/martinsamudev/CoinTrack):** App para gestión de finanzas personales
 - **[KeyNest](https://github.com/martinsamudev/KeyNest):** Criptografía y seguridad aplicada.
 - **[TaskMaster](https://github.com/martinsamudev/TaskMaster):** Lógica de negocio y organización de datos.
 
@@ -21,5 +22,6 @@ Soy un desarrollador con un enfoque multidisciplinar, capaz de adaptarme a difer
 - 📫 Contacto: [LinkedIn](https://linkedin.com/in/samuel-martinbellido-098860350)
 
 - **Portfolio:** [[Vercel](https://portfolio-martinsamu.vercel.app/)]
+
 
 
