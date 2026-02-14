@@ -18,5 +18,6 @@ Soy un desarrollador con un enfoque multidisciplinar, capaz de adaptarme a difer
 ## ⚡ Sobre mí
 - 🔭 Estoy constantemente explorando nuevas tecnologías y arquitecturas.
 - 💬 Interesado en el desarrollo de software, la ciberseguridad y la optimización de procesos.
-- 📫 Contacto: [samuel-martin-bellido](https://linkedin.com/in/samuel-martinbellido-098860350)
-- **Portfolio:** [[Tu-URL-de-Vercel-Aquí](https://vercel.com/samuels-projects-9505d422)]
+- 📫 Contacto: [LinkedIn](https://linkedin.com/in/samuel-martinbellido-098860350)
+
+- **Portfolio:** [[https://vercel.com/samuels-projects-9505d422](https://vercel.com/samuels-projects-9505d422)]
